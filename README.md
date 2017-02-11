@@ -53,7 +53,7 @@
 * Go one word right - `M-f`
 * Delete next word - `M-d`
 * Delete back word - `M-DEL`
-* Kill to end of sentence - `M-K`
+* Kill to end of sentence - `M-k`
 * Copy to kill ring - `M-w`
 * End of the line - `C-e`
 * Copying entire line - ‘C-a C-SPC C-e M-w’
