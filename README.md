@@ -50,8 +50,6 @@
 * Move cursor to next line - `C-n`
 * Copy region - `M-w`
 * Paste (“yank”) - `C-y`
-
-### Kill
 * Go one word right - `M-f`
 * Delete next word - `M-d`
 * Delete back word - `M-DEL`
