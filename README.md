@@ -80,6 +80,9 @@
 * Push all tags - `P t`
 * Save commit message - `C-c C-c`
 * Exit from commit message window - `C-c C-k`
+* Create a new branch and checkout - `b c` (provide reference and target branch)
+* Checkout a branch - `b b`
+* Set pull rebase by default - `M-r`
 
 ## Miscellaneous 
 * Reload emacs config/Install newly added packages/modes - `M-m f e R`
