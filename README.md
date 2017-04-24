@@ -64,12 +64,27 @@
 * Go to end of the document - `ESC >`
 * Comment/Uncomment - `SPC + ;`
 
+## Searching
+* Search in the same file using ag- `SPC + s + a + a`
+* Search in a project - `SPC + s + p`
+* Search in a particular file - `SPC + s + f`
+
+## Magit - Git Management
+* Enter Magit Status - `SPC + g + s`
+* Open details of any file - `TAB`
+* Stage a File/Hunk - `s`
+* Unstage a File/Hunk - `u`
+* Commit staged files - `c c`
+* Push current ref to master - `P u`
+* Push a tag - `P T`
+* Push all tags - `P t`
+* Save commit message - `C-c C-c`
+* Exit from commit message window - `C-c C-k`
+
 ## Miscellaneous 
 * Reload emacs config/Install newly added packages/modes - `M-m f e R`
 * Show line numbers - `SPC t n`
 * Zoom - `SPC z f +`
-
-
 
 
 
